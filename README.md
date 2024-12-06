@@ -1,9 +1,11 @@
-# Expo Router and Tailwind CSS
+# Starter Expo Application with Router and Tailwind CSS
+#### Uses vanilla JS instead of Typescript.
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+Usage:
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-tailwindcss
 ```
+npm i
+npm start 
+```
+
+**This Repository is a template repository and will not be getting major changes.**
